@@ -10,4 +10,5 @@
   <groupId>com.github.methinksBot</groupId>
   <artifactId>google-webrtc-mod</artifactId>
   <version>0.1</version>
+  <packaging>aar</packaging>
 </project>
